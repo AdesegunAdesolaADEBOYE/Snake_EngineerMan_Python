@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "Snake_EngineerMan_Python"
+version = "0.1.0"
+description = "Snake Game by the Engineer Man"
+authors = ["Adesegun Adesola ADEBOYE <fantasticinkmedia@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+wheel = "^0.37.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
